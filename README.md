@@ -111,12 +111,3 @@ For educational and IoT prototyping purposes.
 
 
 ---
-
-Let me know if you'd like:
-
-- A downloadable `.md` file
-- GitHub-style formatting with badges
-- Modifications for WiFi instead of Bluetooth
-- JSON or CSV logging of received data
-
-I'm happy to help tailor this further.
